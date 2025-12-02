@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/catalogue/","tags":["gardenEntry"]}
 ---
 
-CATALAGOUE 1
+[[STdictionary 1/Aligner\|Aligner]] 'это крутая штука'

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sajt/chest-hall/","tags":["StorageTechContraption"]}
 ---
 
-
 ## **Зал сундуков**
 
 #StorageTechContraption 

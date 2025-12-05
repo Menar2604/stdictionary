@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sajt/dropperline/","tags":["Contraption"]}
 ---
 
-## Линия выбрасывателей
+## **Линия выбрасывателей**
 
 #Contraption 
 
